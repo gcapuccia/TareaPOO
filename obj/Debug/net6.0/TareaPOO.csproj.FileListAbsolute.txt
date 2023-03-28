@@ -1,0 +1,15 @@
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\TareaEnClase\TareaPOO\TareaPOO\bin\Debug\net6.0\TareaPOO.exe
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\TareaEnClase\TareaPOO\TareaPOO\bin\Debug\net6.0\TareaPOO.deps.json
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\TareaEnClase\TareaPOO\TareaPOO\bin\Debug\net6.0\TareaPOO.runtimeconfig.json
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\TareaEnClase\TareaPOO\TareaPOO\bin\Debug\net6.0\TareaPOO.dll
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\TareaEnClase\TareaPOO\TareaPOO\bin\Debug\net6.0\TareaPOO.pdb
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\TareaEnClase\TareaPOO\TareaPOO\obj\Debug\net6.0\TareaPOO.csproj.AssemblyReference.cache
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\TareaEnClase\TareaPOO\TareaPOO\obj\Debug\net6.0\TareaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\TareaEnClase\TareaPOO\TareaPOO\obj\Debug\net6.0\TareaPOO.AssemblyInfoInputs.cache
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\TareaEnClase\TareaPOO\TareaPOO\obj\Debug\net6.0\TareaPOO.AssemblyInfo.cs
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\TareaEnClase\TareaPOO\TareaPOO\obj\Debug\net6.0\TareaPOO.csproj.CoreCompileInputs.cache
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\TareaEnClase\TareaPOO\TareaPOO\obj\Debug\net6.0\TareaPOO.dll
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\TareaEnClase\TareaPOO\TareaPOO\obj\Debug\net6.0\refint\TareaPOO.dll
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\TareaEnClase\TareaPOO\TareaPOO\obj\Debug\net6.0\TareaPOO.pdb
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\TareaEnClase\TareaPOO\TareaPOO\obj\Debug\net6.0\TareaPOO.genruntimeconfig.cache
+C:\Users\guido\OneDrive\ISTEA\Programacion Orientada a Objetos (POO)\TareaEnClase\TareaPOO\TareaPOO\obj\Debug\net6.0\ref\TareaPOO.dll
